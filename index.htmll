@@ -33,4 +33,32 @@
     </ul>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chennai Super Kings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFF5CC;
+            color: #FF6600;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #F7B500;
+        }
+        .victory {
+            display: inline-block;
+            margin: 20px;
+            border: 2px solid #FF6600;
+            border-radius: 10px;
+            padding: 10px;
+            background-color: #FFF8E1;
+        }
+        .victory img {
+            width: 200px;
+            height: auto;
+            border-radius:
+
 
